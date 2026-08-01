@@ -1,14 +1,18 @@
-# Sam Rosenstock's Project Hub
+# Sam Rosenstock Projects
 
-A minimal landing page that links to six personal research and information projects.
+A minimal dark landing page linking to five personal research and information projects.
 
 ## Live site
 
 https://sam-landing-project-page.vercel.app
 
-## Updating projects
+## Projects
 
-Replace each placeholder project card in `index.html` with the final project name, description, and URL. Project cards are designed to work as anchor elements once links are available.
+1. Sam Rosenstock personal site
+2. Portfolio Dashboard
+3. Buy Window
+4. SemiAnalysis
+5. AI Economic Reality
 
 ## Local preview
 
